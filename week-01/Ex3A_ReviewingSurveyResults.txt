@@ -1,0 +1,50 @@
+EXERCISE 3.A REVIEWING SURVEY RESULTS
+
+For each survey question: (1) What conclusion can you reach about the responses to this question? (2) Is the default summary or visualization helpful? How could it be improved? (3) For questions with an "Other" option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these? (4) For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided? (5) Now that you can see the responses, how might you recommend rephrasing this question or the response options in a future survey?
+
+SURVEY QUESTION 1: What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+1) Answer: Most people plan to check their technology (Zoom, device) and review their notes or material before class starts. Words like "device is ready," "review," "notes," and "material" show up often. 24 people responded.
+2) Answer: It is somewhat helpful. The word cloud shows common themes, but the words that appear most ("minutes before class") just repeat the question, and the summary only shows 3 sample answers that are cut off. It could be improved by grouping answers into categories (check tech, review notes, other) and showing a bar chart with counts.
+3) Answer: Not applicable. This question has no "Other" option.
+4) Answer: Everyone words their answer differently, so the same idea shows up in different phrases. The word cloud picks up filler words and cannot tell the meaning of a sentence. To find real patterns, you have to read and sort each answer by hand.
+5) Answer: Offer choices such as check my tech, review notes, get supplies ready, or other, with an optional box for details. This would make the answers easier to count.
+
+SURVEY QUESTION 2: Do you have a second monitor connected to your computer?
+1) Answer: 1) Answer: The chart shows 13 No (54%), 2 Yes (8%), and 9 Other (38%), which makes it look like very few people have a second monitor. But the 9 Other answers are mostly Yes answers that people typed in themselves, such as "Yes, I have second monitor." (8 people), plus one "Maybe." When I add those to the 2 Yes answers, 10 of 24 people (about 42%) have a second monitor, 13 do not, and 1 said Maybe.
+2) Answer: No, the default chart is not very helpful. It counts typed Yes answers as "Other," so it hides the real number of people who said Yes. It could be improved by combining answers that mean the same thing (Yes, and "Yes, I have second monitor") and showing a bar chart with counts.
+3) Answer: The actual text of the Other answers can be found by clicking "More details" under the question, in "Check individual results," or in the Excel download. What is tricky is that people say the same thing in different ways ("Yes" versus "Yes, I have second monitor."), so the answers have to be read and grouped by hand before they can be counted. Some answers, like "Maybe," are not clear.
+4) Answer: Not applicable. This is mostly a choice question.
+5) Answer: Use clear choices such as "Yes," "No," and "No, but I can get one," and add a short "Maybe/Other" box only for people who need it. This would stop people from typing the same answer as "Other."
+
+SURVEY QUESTION 3: Do you have an external keyboard and mouse?
+1) Answer: 1) Answer: The chart shows 13 No (54%), 2 Yes (8%), and 9 Other (38%). But the Other answers include 6 people who typed "Yes, I have an external mouse and keyboard.", 2 people who have only a mouse ("External mouse, not keyboard" and "I have a mouse"), and 1 "Maybe." When I add the 2 Yes answers, 8 of 24 people have both a keyboard and mouse, 2 have only a mouse, 13 do not have either, and 1 said Maybe.
+2) Answer: The default chart is not very helpful because typed Yes answers are counted as Other. It could be improved by grouping similar answers and showing counts for Yes, No, and Only one.
+3) Answer: The Other text can be found under "More details," in "Check individual results," or in the Excel download. It is tricky because the question asks about a keyboard AND a mouse together. Someone who has only one of them (like the person who wrote "External mouse, not keyboard") does not fit Yes or No, so they have to type their own answer.
+4) Answer: Not applicable. This is mostly a choice question.
+5) Answer: Split it into two questions, one for a keyboard and one for a mouse. Add choices like "Yes," "No," and "Only one."
+
+SURVEY QUESTION 4: How do you plan to take notes for this class - in a doc on your computer, with pen and paper, or something else?
+1) Answer: All 24 responses were counted as "Other," so the chart does not tell us how people plan to take notes. We have to read the written answers to reach any conclusion.
+2) Answer: No, it is not helpful. The chart shows one full ring labeled 100% Other. It could be improved by making this a multiple choice question (doc on computer, pen and paper, tablet, other) so the chart can show real results.
+3) Answer: The text can be found under "More details," in "Check individual results," or in the Excel download. Because all 24 answers are Other, all of the analysis has to be done by reading each answer.
+4) Answer: People can describe the same method in different words (for example "Word doc," "laptop," "typing"), and some may plan to use more than one method. It is hard to count without reading each answer and sorting them into groups.
+5) Answer: Turn it into a checkbox question with choices like doc on my computer, pen and paper, tablet or iPad, and other, so people can choose more than one.
+
+SURVEY QUESTION 5: What is one question that you have right now, about this course generally or about a specific topic we'll be talking about?
+1) Answer: Most questions are about data analytics itself, including AI, Python, predictive analytics, skills, and what the work is like day to day. 23 of 24 people answered, and one said they have no questions yet.
+2) Answer: The word cloud shows some themes, but "data" is the biggest word only because it is the topic of the course, so it does not tell us much. It could be improved by sorting questions into topics (AI, programming, careers, equipment) and showing counts for each.
+3) Answer: Not applicable. This question has no "Other" option.
+4) Answer: The questions cover many different topics and are written as full sentences. The word cloud splits phrases apart and highlights obvious words. Some answers are about equipment and some are about topics, so it is hard to compare them without reading each one.
+5) Answer: Ask people to pick a category first (about the course, about a topic, about careers) and then write their question. This would make the answers easier to group.
+
+6. Is there anything that surprised you about the survey responses?
+Answer: I was surprised that the charts for questions 2 and 3 made it look like very few people have a second monitor or an external keyboard and mouse, when many of the "Other" answers were really Yes. I was also surprised that questions 2 and 3 show exactly the same counts on the charts (13 No, 2 Yes, 9 Other), and that every answer to question 4 was counted as "Other."
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+Answer: I might try checking my device and Zoom a few minutes before class and reviewing my notes from the day before. I am also curious about how data analysts use Python and predictive analytics in real jobs.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+Answer: Some students have a second monitor and an external keyboard and mouse, but not everyone does. In the responses I looked at, a good number said No, and one person has only a mouse. So I could not assume everyone has two screens, and I would show tips for working on one screen, like splitting the window between Zoom and Excel. I would also help students find ways to borrow equipment. Since students are interested in AI, Python, and predictive analytics, I would connect lessons to those topics.
+
+9. Pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+Answer: It was partly helpful. Some responses showed "anonymous" and others showed a name, so it was only partly anonymous. Anonymous answers can help students be honest about not having equipment without feeling embarrassed. The downside is that, as the instructor, I could not follow up with the specific students who need a monitor or other help.
