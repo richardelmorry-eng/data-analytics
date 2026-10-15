@@ -1,0 +1,35 @@
+1. Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+Answer: Does a high number of Google searches for a food really mean people eat it after a breakup? Searches could be for recipes or something else. What other foods were in the original list, and how were they chosen? Foods that were not on the list could not win. How did they compare states, and what were the actual numbers? The article only shows the winning food and not how close the other foods were.
+
+2. Where can you find Google Trends search data? Provide the URL.
+Answer: https://trends.google.com/trends/
+
+3. The article concluded that "milkshakes take the crown as the ultimate breakup food, topping the list in six states." Pull up Google Trends data on Milkshake (beverage) and change the date range to February 1, 2024 through February 28, 2025.
+a) What is the highest peak recorded in the line chart for "Interest over time"?
+Answer: 100, in the week of Feb 23 - Mar 1, 2025.
+b) What is the lowest dip recorded?
+Answer: About 67, in the week of Dec 15 - 21, 2024.
+
+4. At the top next to the box for "Milkshake," there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+a) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+Answer: The highest peak is 100, in the week of May 26 - Jun 1, 2024. The lowest dip is about 66, in the week of Dec 1 - 7, 2024.
+b) What happened to the line for Milkshake? What do the high and low look like now?
+Answer: The Milkshake line became much lower and flatter. Its high is now 24 (Feb 23 - Mar 1, 2025) and its low is about 16 (Dec 22 - 28, 2024).
+
+5. Why did the line for Milkshake change?
+Answer: The Milkshake line changed because Google Trends shows search interest relative to the highest point on the chart, not the raw number of searches. A value of 100 is the peak popularity on the chart. When Milkshake was by itself, its own peak was 100. After adding Hamburger, Hamburger's peak became the 100 mark, and Hamburger gets far more searches than Milkshake, so Milkshake dropped to a high of 24 and a low of 16.
+
+6. Add a third term to your search, this time for Breakup (Topic).
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+Answer: No clear pattern. The Breakup line stays low and flat (about 14 to 23) all year. When Hamburger spiked to 100 in the week of May 26 - Jun 1, 2024, Breakup stayed at 16. When Hamburger dipped to 66 in early December, Breakup stayed at 15. The two lines do not rise and fall together.
+b) How about between Breakup and Milkshake?
+Answer: No clear pattern. Breakup and Milkshake are both low and flat, and they run close together (Breakup is about 15 and Milkshake about 21 in most weeks). Milkshake rises a little in early 2025 while Breakup does not. Searches for Breakup do not appear to increase when searches for Milkshake do, so the chart shows no relationship.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+Answer: This suggests the article's conclusions are not very reliable. Google Trends shows search interest relative to the highest point on the chart, not the actual number of searches, so a food can look popular or unpopular depending on what it is compared with (Milkshake went from 100 to 24 once Hamburger was added). Also, in my search, Breakup searches did not rise or fall with Hamburger or Milkshake searches, so I found no evidence that people search for these foods because of a breakup. A search can also be for a recipe or a restaurant, not for comfort food after a breakup. The article only shows the winning food in each state and does not show how close the other foods were, so I would not trust its conclusions without more data.
+
+8. At the upper right of Google Trends, click on the link for "Back to Classic Explore." Notice that this view includes a section for "Compared breakdown by subregion."
+a) What was the top state by interest for Milkshake?
+Answer: Delaware
+b) What was the top state by interest for Hamburger?
+Answer: South Dakota
