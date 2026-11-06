@@ -11,6 +11,7 @@ Every week has its own folder with my homework and lab exercises. Each folder in
 - [pre-week-3](pre-week-3/README.md): learning with AI
 - [week-01](week-01/README.md): Google Trends and thinking critically about data
 - [week-02](week-02/README.md): MySQL and databases
+- [week-03](week-03/README.md): SQL queries, joins and subqueries
 - More weeks (up to week-12) are added as I complete each one
 
 ## Tools and Skills
