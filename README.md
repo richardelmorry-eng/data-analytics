@@ -13,6 +13,7 @@ Every week has its own folder with my homework and lab exercises. Each folder in
 - [week-02](week-02/README.md): MySQL and databases
 - [week-03](week-03/README.md): SQL queries, joins and subqueries
 - [week-04](week-04/README.md): Capstone 1, a South Carolina sales analysis with SQL and Excel (in its own repo)
+- [week-05](week-05/README.md): Beginning Python, with variables, strings, collections, if statements, and loops
 - More weeks (up to week-12) are added as I complete each one
 
 ## Tools and Skills
@@ -20,8 +21,9 @@ Every week has its own folder with my homework and lab exercises. Each folder in
 - SQL and MySQL Workbench
 - Excel
 - Git and GitHub
+- Python
 
-Coming up: Python and Power BI. I'll update this list as I learn them.
+Coming up: Power BI. I'll update this list as I learn it.
 
 ## About
 
